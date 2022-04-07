@@ -1,0 +1,1 @@
+const t={key:"v-09f6ed29",path:"/css/css2D.html",title:"2D\u7279\u6027",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"2D\u8F6C\u6362",slug:"_2d\u8F6C\u6362",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"css/css2D.md"};export{t as data};

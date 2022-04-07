@@ -1,0 +1,1 @@
+const t={key:"v-bacc21a6",path:"/javascript/Javascript%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84.html",title:"\u6570\u7EC4",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u904D\u5386\u6570\u7EC4",slug:"\u904D\u5386\u6570\u7EC4",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"javascript/Javascript\u57FA\u7840/\u6570\u7EC4.md"};export{t as data};

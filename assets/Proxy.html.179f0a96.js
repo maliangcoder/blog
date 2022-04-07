@@ -1,0 +1,1 @@
+const t={key:"v-9ad434da",path:"/javascript/Javascript%E8%BF%9B%E9%98%B6/Proxy.html",title:"Proxy",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Proxy\u57FA\u672C\u4F7F\u7528",slug:"proxy\u57FA\u672C\u4F7F\u7528",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"javascript/Javascript\u8FDB\u9636/Proxy.md"};export{t as data};
